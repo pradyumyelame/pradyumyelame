@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradum Yelame</h1>
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | Engineering Student at WCE</h3>
-### 🌐 Portfolio:
+🌐 Portfolio:
 🚀 [pradumyelame.vercel.app](https://pradumyelame.vercel.app/)
 
 🌍 From Bhandara, Maharashtra, India  
