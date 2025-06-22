@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradum Yelame</h1>
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | Engineering Student at WCE</h3>
+### 🌐 Portfolio:
+🚀 [pradumyelame.vercel.app](https://pradumyelame.vercel.app/)
 
 🌍 From Bhandara, Maharashtra, India  
 🎓 Pursuing B.Tech in Computer Science @ Walchand College Of Engineering, Sangli (2022–2026)  
@@ -8,33 +10,43 @@
 ---
 
 ### 🧠 Currently Learning:
-- Machine Learning
+- Machine Learning & AI Integration
+- Real-Time Systems
 - Ethical Hacking
-- Advanced DSA
-- Real-Time System Design
+- System Design & Scalable Architectures
 
 ---
 
-### 💼 My Projects:
-#### 🚜 GramConnect – Rural Governance Platform
-> MERN Stack | MongoDB, Express.js, React.js, Node.js  
-- Built a citizen portal to apply for certificates and public services.  
-- Integrated role-based access for officials (Sarpanch, Gram Sevak).  
-- Reduced manual overhead by automating administrative processes.
+### 💼 Projects & Live Demos:
 
-#### 🤖 CodeGuardian – AI-Powered Code Reviewer  
+#### 🚜 [GramConnect – Rural Governance Platform](https://gram-connect.vercel.app/)
+> MERN Stack | MongoDB, Express.js, React.js, Node.js  
+- Platform for villagers to apply for documents, file grievances, and track schemes.  
+- Admin roles for Sarpanch/Gram Sevak, secure service flow, and document issuance.
+
+#### 🧠 ArogyaSathi – AI-Based Health Advisor 
+> MERN Stack + Python + TensorFlow  
+- Symptom checker powered by ML to suggest diagnosis.  
+- Offers personalized health advice, severity prediction, and emergency support.
+
+#### 🤖 CodeGuardian – AI Code Reviewer  
 > React.js | Node.js | Express | Google Gemini API  
-- Created an AI reviewer that provides real-time code analysis and feedback.  
-- Used Gemini API to automate suggestions and enforce coding best practices.
+- AI-powered platform to review code and suggest improvements in real-time.  
+- Ideal for students, coding platforms, and developer teams.
+
+#### 🚗 Uber-like Riding Application (https://github.com/pradyumyelame/UBER_APP)
+> MERN Stack + Google Maps API + Socket.io  
+- Real-time ride booking system with map view, live tracking, and driver-rider interaction.  
+- Admin dashboards and payment integration (coming soon).
 
 ---
 
 ### 🏆 Achievements:
 - 🥇 **Finalist - Flipkart Grid 6.0 (Top 800/400,000 participants)**
 - 🧠 **Finalist - TechVortex Ideathon, SIT Pune**
-- 🔒 Completed **Ethical Hacking Internship @ C-DAC Noida**
-- 🧩 Solved **500+ problems** on coding platforms
-- 🏅 **Top 10** in WCE CodeChef WCPC 2024
+- 🔒 **Ethical Hacking Intern @ C-DAC Noida**
+- 🧩 Solved **500+ DSA problems**
+- 🏅 **Top 10 in WCE CodeChef WCPC 2024**
 - ⭐ Highest CodeChef rating: **1325**
 
 ---
@@ -55,24 +67,19 @@
 
 ---
 
-### 📚 Coursework:
+### 📚 Key Coursework:
 - Data Structures & Algorithms
-- Object-Oriented Programming
 - Operating Systems
 - DBMS
-- Computer Networks
+- Object-Oriented Programming
 - Web Development
+- Computer Networks
 
 ---
 
 ### 📊 GitHub Stats:
 ![Pradum's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradyumyelame&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumyelame&layout=compact&theme=radical)
-
----
-
-### 🌐 Portfolio:
-🚀 [Visit My Portfolio](https://pradumyelame.vercel.app/)
 
 ---
 
