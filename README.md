@@ -24,8 +24,16 @@
 
 #### 🚜 [GramConnect – Rural Governance Platform](https://gram-connect.vercel.app/)
 > **MERN Stack | MongoDB, Express.js, React.js, Node.js**  
-- Platform for villagers to apply for documents, file grievances, and track schemes.  
-- Admin roles for Sarpanch/Gram Sevak, secure service flow, and document issuance.
+- A centralized platform for villagers to access government services.  
+- Enables document requests, scheme tracking, and grievance submission.  
+- Admin roles for Sarpanch/Gram Sevak ensure controlled workflows and document verification.
+
+#### 🧠 [Skill Sync – AI Resume Analyzer & Builder](https://skillsync-navy.vercel.app/)
+> **MERN Stack + Google Gemini API**  
+- AI-powered platform that helps job seekers analyze and optimize their resumes.  
+- Upload your resume and job description to receive an **ATS score**, **keyword analysis**, and **smart AI suggestions**.  
+- Also includes a form-based **Resume & CV Builder** to generate polished PDF resumes from scratch.  
+- Ideal tool for students, professionals, and job seekers to build job-ready resumes instantly.
 
 #### 🧠 ArogyaSathi – AI-Based Health Advisor *(Coming Soon)*
 > **MERN Stack + Python + TensorFlow**  
