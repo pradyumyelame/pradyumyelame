@@ -49,7 +49,7 @@
 
 ---
 
-### 🧠 [ArogyaSathi – AI-Based Health Advisor](https://github.com/pradyumyelame/Mini_Project) *(Coming Soon)*
+### 🧠 [ArogyaSathi – AI-Based Health Advisor](https://github.com/pradyumyelame/Mini_Project) 
 > **MERN Stack + Python + TensorFlow**
 - ML-based symptom checker with severity prediction.
 - Personalized health advice with real-time alerts.
@@ -57,7 +57,7 @@
 
 ---
 
-### 🤖 CodeGuardian – AI Code Reviewer *(Coming Soon)*
+### 🤖 [CodeGuardian – AI Code Reviewer](https://github.com/pradyumyelame/CodeGuardian-AI-Powered-Code-Reviewer-)
 > **React.js | Node.js | Gemini API**
 - Reviews your code and provides AI-based improvements.
 - Targets dev teams and beginner programmers.
